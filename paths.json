@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/aem-eds-capstone/:/",
+    "/content/aem-eds-capstone/configuration:/.helix/config.json",
+    "/content/aem-eds-capstone/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/capstone-eds-xwalk/"
+  ]
+}
